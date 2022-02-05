@@ -6,20 +6,277 @@ uid: d5a14171-5068-11f5-3064-50c746204d88
 
 This page contains readings assigned for each class session. Full citations for all text sources are listed [below](#Text_Sources).
 
-| WEEK # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | The power and ambiguity of photography | Edwards, _Short Introduction_, chapters 1-5. |
-| 3 | Looking at faces |  {{< br >}}{{< br >}} Edwards, _Short Introduction_, review chapters 1-2. {{< br >}}{{< br >}} Hamilton & Hargreaves, _The Beautiful and the Damned_, all. {{< br >}}{{< br >}} Trachtenberg, "Illustrious Americans." {{< br >}}{{< br >}} Wells, _Physiognomy_, pp. 162-165, 168-171, 192-195, 344-345, 360-361, and 382-383. {{< br >}}{{< br >}} Kemp, "A Perfect and Faithful Record." {{< br >}}{{< br >}} Banks, _Visual Methods_, pp. 34-47. {{< br >}}{{< br >}}  |
-| 4 | Snaps/albums/postcards/  {{< br >}}itinerants, everyday photography and people's lives |  {{< br >}}{{< br >}} Edwards, _Short Introduction_, chapter 6. {{< br >}}{{< br >}} Batchen, Geoffrey. "Vernacular Photographies." _History of Photography_ 24 (Autumn 2000): 262-269. {{< br >}}{{< br >}} Katriel, Tamar, and Thomas Farrell. "Scrapbooks as Cultural Texts: An American Art of Memory." _Text and Performance Quarterly_ 11 (January 1991): 1-17. {{< br >}}{{< br >}} Kuhn, "Remembrance." {{< br >}}{{< br >}} Frizot, _New History_, chapter 41, "Rituals and Customs." {{< br >}}{{< br >}} Jacobbi, Marianne. "[Deleting Him](http://www.boston.com/bostonglobe/magazine/articles/2008/01/13/deleting_him/)." _The Boston Globe_, January 13, 2008, p. 38. {{< br >}}{{< br >}} Amir, "From Memorial Books to Invaluable Historical Documentation." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world)) {{< br >}}{{< br >}} [Meir Holtzman Album](http://www.zchor.org/index5.htm) {{< br >}}{{< br >}} Sprague, "Yoruba Photography." {{< br >}}{{< br >}} Parker & Neal, _Los Ambulantes_, pp. 1-22. (skim) {{< br >}}{{< br >}} Simmonds, Posy. "Every Picture Tells a Story." p. 212 in Lenman, _Oxford Companion_. {{< br >}}{{< br >}}  |
-| 5 | Truth and deception |  {{< br >}}{{< br >}} Gladwell, Malcolm. "[The Picture Problem](http://www.newyorker.com/archive/2004/12/13/041213fa_fact)." _The New Yorker_, December 13, 2004, pp. 74-81. {{< br >}}{{< br >}} Chéroux, _The Perfect Medium_, pp. 20-23 and 29-34 (read); pp. 73-78 and 92-94 (skim). {{< br >}}{{< br >}} Harvey, _Photography and Spirit_, pp. 56-69, 70-75, and 80-86. {{< br >}}{{< br >}} King, _The Commissar Vanishes_, pp. 9-13 and 32. {{< br >}}{{< br >}} [Moon Base Clavius](http://www.clavius.org/index.html) (Read section on photo analysis) {{< br >}}{{< br >}} "[The Truth of the Matter](http://digitaljournalist.org/issue0203/howe.htm)." (On two famous disputed war photographs) {{< br >}}{{< br >}} Brower, Kenneth. "[Photography in the Age of Falsification](http://www.theatlantic.com/issues/98may/photo.htm)." _The Atlantic_ (May 1998): 92-111. {{< br >}}{{< br >}}  |
-| 6 | Advertising photography and gender | Goffman, _Gender Advertisements_, all. |
-| 7 | Photographing the Great Depression |  {{< br >}}{{< br >}} Guimond, _American Photography and the American Dream_, chapter 4. {{< br >}}{{< br >}} Wright, _12 Million Black Voices,_ all. {{< br >}}{{< br >}} Levine, "The Historian and the Icon," and Trachtenberg, "From Image to Story." In _Documenting America_, pp. 15-71. (optional) {{< br >}}{{< br >}}  |
-| 8 | Imperialism and photography |  {{< br >}}{{< br >}} Mitchell, "Orientalism and the Exhibitionary Order." {{< br >}}{{< br >}} Faris, "A Political Primer on Photography/Anthropology," (read) and Street, "British Popular Anthropology," (skim). In Edwards, _Anthropology and Photography_. {{< br >}}{{< br >}} Lutz, Catherine, and Jane Collins. "The Photograph as an Intersection of Gazes: the Example of National Geographic." _Visual Anthropology Review_ 7 (1991): 143-149. {{< br >}}{{< br >}} Poole, Deborah. "An Excess of Description: Ethnography, Race, and Visual Technologies." _Annual Review of Anthropology_ 34 (2005): 159-179. {{< br >}}{{< br >}}  |
-| 9 | Muck-raking, advocacy, and propaganda |  {{< br >}}{{< br >}} Frizot, _New History_, chapter 30, "The Way Life Goes," and chapter 33, "The Involvement of the Photojournalist." {{< br >}}{{< br >}} Dunaway, "Nature on the Coffee Table," (required) and "Thoreau with a Camera," (optional). In _Natural Visions_. {{< br >}}{{< br >}} Ferrato, "Living with the Enemy: Domestic Violence." {{< br >}}{{< br >}} Goldberg, "Documenting Poverty." {{< br >}}{{< br >}} Levi-Strauss, "The Documentary Debate," and "Photography and Propaganda." In _Between the Eyes._ {{< br >}}{{< br >}}  |
-| 10 | Photographing people's lives: photo-essays and photo-ethnography |  {{< br >}}{{< br >}} Collier, _Visual Anthropology_, pp. 19-28, 44-63, and 77-97. {{< br >}}{{< br >}} Pink, _Doing Visual Ethnography_, chapter 3. {{< br >}}{{< br >}} Banks, _Visual Methods_, chapter 5. {{< br >}}{{< br >}} Bateson & Mead, _Balinese Character_, pp. xi-xvi, 1, 6-8, 13-23, 64-65, 78-79, 86-87, 96-97, 100-101, 104-105, and 120-121. {{< br >}}{{< br >}} Morath, "Pamplona Bullfight," and Smith, "A Country Doctor." In Boot, _Magnum Stories_. {{< br >}}{{< br >}} "Spanish Village." pp. 72-81 in _Time - Photojournalism_. {{< br >}}{{< br >}}  |
-| 11 | Looking at pictures, thinking about photography |  {{< br >}}{{< br >}} Benjamin, "The Work of Art in the Age of Mechanical Reproduction," and Manovich, "The Paradoxes of Digital Photography." In Wells, _The Photography Reader._ {{< br >}}{{< br >}} Sontag, "In Plato's Cave." In _On Photography_. {{< br >}}{{< br >}} Malcolm, "Certainties and Possibilities." {{< br >}}{{< br >}} Collins, Lauren. "[Pixel Perfect](http://www.newyorker.com/reporting/2008/05/12/080512fa_fact_collins)." _The New Yorker_, May 12, 2008. {{< br >}}{{< br >}}  |
-| 12 | War and suffering in the picture | Sontag, _Regarding the Pain of Others_, all. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The power and ambiguity of photography
+{{< tdclose >}}
+{{< tdopen >}}
+Edwards, _Short Introduction_, chapters 1-5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Looking at faces
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Edwards, _Short Introduction_, review chapters 1-2.
+
+Hamilton & Hargreaves, _The Beautiful and the Damned_, all.
+
+Trachtenberg, "Illustrious Americans."
+
+Wells, _Physiognomy_, pp. 162-165, 168-171, 192-195, 344-345, 360-361, and 382-383.
+
+Kemp, "A Perfect and Faithful Record."
+
+Banks, _Visual Methods_, pp. 34-47.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Snaps/albums/postcards/  
+itinerants, everyday photography and people's lives
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Edwards, _Short Introduction_, chapter 6.
+
+Batchen, Geoffrey. "Vernacular Photographies." _History of Photography_ 24 (Autumn 2000): 262-269.
+
+Katriel, Tamar, and Thomas Farrell. "Scrapbooks as Cultural Texts: An American Art of Memory." _Text and Performance Quarterly_ 11 (January 1991): 1-17.
+
+Kuhn, "Remembrance."
+
+Frizot, _New History_, chapter 41, "Rituals and Customs."
+
+Jacobbi, Marianne. "[Deleting Him](http://www.boston.com/bostonglobe/magazine/articles/2008/01/13/deleting_him/)." _The Boston Globe_, January 13, 2008, p. 38.
+
+Amir, "From Memorial Books to Invaluable Historical Documentation." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
+
+[Meir Holtzman Album](http://www.zchor.org/index5.htm)
+
+Sprague, "Yoruba Photography."
+
+Parker & Neal, _Los Ambulantes_, pp. 1-22. (skim)
+
+Simmonds, Posy. "Every Picture Tells a Story." p. 212 in Lenman, _Oxford Companion_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Truth and deception
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gladwell, Malcolm. "[The Picture Problem](http://www.newyorker.com/archive/2004/12/13/041213fa_fact)." _The New Yorker_, December 13, 2004, pp. 74-81.
+
+Chéroux, _The Perfect Medium_, pp. 20-23 and 29-34 (read); pp. 73-78 and 92-94 (skim).
+
+Harvey, _Photography and Spirit_, pp. 56-69, 70-75, and 80-86.
+
+King, _The Commissar Vanishes_, pp. 9-13 and 32.
+
+[Moon Base Clavius](http://www.clavius.org/index.html) (Read section on photo analysis)
+
+"[The Truth of the Matter](http://digitaljournalist.org/issue0203/howe.htm)." (On two famous disputed war photographs)
+
+Brower, Kenneth. "[Photography in the Age of Falsification](http://www.theatlantic.com/issues/98may/photo.htm)." _The Atlantic_ (May 1998): 92-111.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Advertising photography and gender
+{{< tdclose >}}
+{{< tdopen >}}
+Goffman, _Gender Advertisements_, all.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Photographing the Great Depression
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guimond, _American Photography and the American Dream_, chapter 4.
+
+Wright, _12 Million Black Voices,_ all.
+
+Levine, "The Historian and the Icon," and Trachtenberg, "From Image to Story." In _Documenting America_, pp. 15-71. (optional)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Imperialism and photography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mitchell, "Orientalism and the Exhibitionary Order."
+
+Faris, "A Political Primer on Photography/Anthropology," (read) and Street, "British Popular Anthropology," (skim). In Edwards, _Anthropology and Photography_.
+
+Lutz, Catherine, and Jane Collins. "The Photograph as an Intersection of Gazes: the Example of National Geographic." _Visual Anthropology Review_ 7 (1991): 143-149.
+
+Poole, Deborah. "An Excess of Description: Ethnography, Race, and Visual Technologies." _Annual Review of Anthropology_ 34 (2005): 159-179.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Muck-raking, advocacy, and propaganda
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Frizot, _New History_, chapter 30, "The Way Life Goes," and chapter 33, "The Involvement of the Photojournalist."
+
+Dunaway, "Nature on the Coffee Table," (required) and "Thoreau with a Camera," (optional). In _Natural Visions_.
+
+Ferrato, "Living with the Enemy: Domestic Violence."
+
+Goldberg, "Documenting Poverty."
+
+Levi-Strauss, "The Documentary Debate," and "Photography and Propaganda." In _Between the Eyes._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Photographing people's lives: photo-essays and photo-ethnography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Collier, _Visual Anthropology_, pp. 19-28, 44-63, and 77-97.
+
+Pink, _Doing Visual Ethnography_, chapter 3.
+
+Banks, _Visual Methods_, chapter 5.
+
+Bateson & Mead, _Balinese Character_, pp. xi-xvi, 1, 6-8, 13-23, 64-65, 78-79, 86-87, 96-97, 100-101, 104-105, and 120-121.
+
+Morath, "Pamplona Bullfight," and Smith, "A Country Doctor." In Boot, _Magnum Stories_.
+
+"Spanish Village." pp. 72-81 in _Time - Photojournalism_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Looking at pictures, thinking about photography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Benjamin, "The Work of Art in the Age of Mechanical Reproduction," and Manovich, "The Paradoxes of Digital Photography." In Wells, _The Photography Reader._
+
+Sontag, "In Plato's Cave." In _On Photography_.
+
+Malcolm, "Certainties and Possibilities."
+
+Collins, Lauren. "[Pixel Perfect](http://www.newyorker.com/reporting/2008/05/12/080512fa_fact_collins)." _The New Yorker_, May 12, 2008.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+War and suffering in the picture
+{{< tdclose >}}
+{{< tdopen >}}
+Sontag, _Regarding the Pain of Others_, all.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Text_Sources" >}}{{< /anchor >}}Text Sources
 --------------------------------------------------------

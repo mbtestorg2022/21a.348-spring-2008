@@ -6,20 +6,311 @@ uid: 19111682-54bc-253f-8e45-4331c89aad90
 
 This page contains photo and movie assignments for each class session. Full citations for all photo sources are listed [below](#Photo_Sources).
 
-| WEEK # | TOPICS | VIEWING |
-| --- | --- | --- |
-| 1 | Introduction |  {{< br >}}{{< br >}} "A Day in the New York Times." Selections from _The New York Times_, December 30, 2007. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_nyt)) {{< br >}}{{< br >}} "Very Brief History of Photographic Technology." ([PDF - 9.3MB]({{< baseurl >}}/resources/mit21a_348s08_evolution)) {{< br >}}{{< br >}}  |
-| 2 | The power and ambiguity of photography |  {{< br >}}{{< br >}} "Schools and Phases in Photographic Art." ([PDF - 9.3MB]({{< baseurl >}}/resources/mit21a_348s08_schools)) {{< br >}}{{< br >}} Selections from _The Photographer's Eye_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.2MB]({{< baseurl >}}/resources/mit21a_348s08_szarkowski)) {{< br >}}{{< br >}}  |
-| 3 | Looking at faces |  {{< br >}}{{< br >}} "The Afghan Girl." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_afghan)) {{< br >}}{{< br >}} "19th Century Portraits and Society." Selections from _Beautiful and Damned_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4MB]({{< baseurl >}}/resources/mit21a_348s08_portraits19)) {{< br >}}{{< br >}} "20th Century Portrait Photography." Selections from _Theatre of the Face_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraits20)) {{< br >}}{{< br >}} "Physiognomy." Selections from _New Physiognomy_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21a_348s08_physiognomy)) {{< br >}}{{< br >}} "Faces and Expressions: the Criminal and Insane." Selections from _Beautiful and the Damned_ and _Beauty of Another Order_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 9.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 2.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_2)) {{< br >}}{{< br >}} "August Sander, German Portraits." Selections from _Men Without Masks_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraitsg)) {{< br >}}{{< br >}}  |
-| 4 | Snaps/albums/postcards/  {{< br >}}itinerants, everyday photography and people's lives |  {{< br >}}{{< br >}} "American Snapshots." Selections from _Art of the American Snapshot_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_snapshotsa)) {{< br >}}{{< br >}} "American Postcards." Selections from _Real Photo Postcard Guide_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_postcards)) {{< br >}}{{< br >}} "French Family Snapshots as Art." Selections from _The Boyhood Photographs of J. H. Lartigue_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsf)) {{< br >}}{{< br >}} "Royal Snaps." Selections from _Queen Alexandra's Christmas Gift Book_ and p. 548 in Lenman, _Oxford Companion_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.8MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsr)) {{< br >}}{{< br >}} "A Professor's Family Pictures." Selections from Prof. Howe's personal collection. (Images unavailable.) {{< br >}}{{< br >}} "A Lebanese Portrait Studio." Selections from _Hashem El Madani_ and _Mapping Sitting_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraitsl)) {{< br >}}{{< br >}} "Guatemalan Itinerant Photographers." Selections from _Los Ambulantes_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_ambulantes)) {{< br >}}{{< br >}} "Memento Mori: Recording the Dead." Selections from _Forget Me Not_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_memento)) {{< br >}}{{< br >}} "Jewish Memorial Books." Selections from _From a Ruined Garden_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_memorials)) {{< br >}}{{< br >}} Movie: "Photo Wallahs." David and Judith McDougall, 1992. {{< br >}}{{< br >}}  |
-| 5 | Truth and deception |  {{< br >}}{{< br >}} "Spirit Photography." pp. 20-23, 29-34, 73-78, and 92-94 in _The Perfect Medium_ and p. 308 in _Houdini_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_spirits)) {{< br >}}{{< br >}} "Disappearing Commissars." Selections from _The Commissar Vanishes_. {{< br >}}{{< br >}} Movie: "Telegrams from the Dead." Directed by Rocky Collins. _The American Experience_. PBS, 1994. {{< br >}}{{< br >}}  |
-| 6 | Advertising photography and gender |  {{< br >}}{{< br >}} "Gender in Advertising." Selections from _Gender Advertisements_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_gender)) {{< br >}}{{< br >}} "Fashion Photography." Selections from _Elle_, February 2007. (Images unavailable.) {{< br >}}{{< br >}}  |
-| 7 | Photographing the Great Depression |  {{< br >}}{{< br >}} "Documenting the Depression." Selections from _Documenting America_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 9.8MB]({{< baseurl >}}/resources/mit21a_348s08_depression_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 9.5MB]({{< baseurl >}}/resources/mit21a_348s08_depression_2)) {{< br >}}{{< br >}} Selections from _Roll Jordan Roll_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_jordan)) {{< br >}}{{< br >}} Selections from _You Have Seen Their Faces_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_faces)) {{< br >}}{{< br >}} Selections from _An American Exodus_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.7MB]({{< baseurl >}}/resources/mit21a_348s08_exodus)) {{< br >}}{{< br >}} Selections from _Let Us Now Praise Famous Men_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.4MB]({{< baseurl >}}/resources/mit21a_348s08_praise)) {{< br >}}{{< br >}} Selections from _Land of the Free_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit21a_348s08_landfree)) {{< br >}}{{< br >}} Selections from _Fruit Tramps_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_fruit)) {{< br >}}{{< br >}}  |
-| 8 | Imperialism and photography |  {{< br >}}{{< br >}} "Pictures from the National Geographic." Selections from issues from the 1930s, 1950s, and the modern day. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_natgeo)) {{< br >}}{{< br >}} Selections from _Martín Chambi_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_chambi)) {{< br >}}{{< br >}} Selections from _The Vanishing Race_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_curtis)) {{< br >}}{{< br >}} Selections from _Last of the Nuba_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_nuba)) {{< br >}}{{< br >}}  |
-| 9 | Muck-raking, advocacy, and propaganda |  {{< br >}}{{< br >}} "Muckraking." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit21a_348s08_muckraking)) {{< br >}}{{< br >}} "Slaves and Prisons." Selections from "[Africa's Children: Struggles of Youth.](http://www.nytimes.com/packages/khtml/2006/10/28/world/20061029_GHANA_FEATURE.html)" _New York Times_, October 29, 2006. {{< br >}}{{< br >}} Selections from _Death in the Making_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_death)) {{< br >}}{{< br >}} "Environmental Propaganda." Selections from _This is the American Earth_ and _The Hand of Man on America_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_environment)) {{< br >}}{{< br >}} Selections from _House of Bondage_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_bondage)) {{< br >}}{{< br >}} "Minamata." Selections from _Minamata_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_minamata)) {{< br >}}{{< br >}} Selections from _Living with the Enemy_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_enemy)) {{< br >}}{{< br >}} "Genocide in Paraguay?" Selections from _The Indian Peoples of Paraguay_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_genocide)) {{< br >}}{{< br >}} "Sebastião Salgado." Selections from _An Uncertain Grace_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_salgado)) {{< br >}}{{< br >}} "Death Camp Guards Have Fun." Selections from Wilkinson, Alec. "[Picturing Auschwitz](http://www.newyorker.com/magazine/2008/03/17/picturing-auschwitz)." _New Yorker_, March 17, 2008. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_guards)) {{< br >}}{{< br >}} Movie: "The Other Half Revisited." Pacific Street Films, 1998. {{< br >}}{{< br >}}  |
-| 10 | Photographing people's lives: photo-essays and photo-ethnography |  {{< br >}}{{< br >}} "Trobriand Islanders." Selections from _Malinowski's Kiriwina_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_trobriand)) {{< br >}}{{< br >}} Selections from _Balinese Character_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_balinese)) {{< br >}}{{< br >}} "The Grand Valley Dani." Selections from _Gardens of War_ and _New Guinea Photographs, 1961_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_dani)) {{< br >}}{{< br >}} Selections from _The Edge of the Forest_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_forest)) {{< br >}}{{< br >}} "Mourning in Greece." Selections from _The Death Rituals of Rural Greece_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_greece)) {{< br >}}{{< br >}} "Weaving in Chiapas." Selections from _Weaving Generations Together_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_chiapas)) {{< br >}}{{< br >}} "Indigenous Photography: Corn." Selections from _Ixim; Maíz; Corn_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_corn)) {{< br >}}{{< br >}} Selections from _My Little Sister Cristina_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_cristina)) {{< br >}}{{< br >}} "Preparing a Photo-ethnography." Selections from Prof. Howe's collection. (Images unavailable.) {{< br >}}{{< br >}} Selections from "Pamplona Bullfight." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_pamplona)) {{< br >}}{{< br >}} Selections from "[A Country Doctor.](http://books.google.com/books?id=_kgEAAAAMBAJ&lpg=PA115&pg=PA115#v=onepage&q=&f=false)" ([PDF]({{< baseurl >}}/resources/mit21a_348s08_doctor)) {{< br >}}{{< br >}} Selections from "[Spanish Village.](http://books.google.com/books?id=4E4EAAAAMBAJ&lpg=PA121&pg=PA121#v=onepage&q=&f=false)" ([PDF]({{< baseurl >}}/resources/mit21a_348s08_village)) {{< br >}}{{< br >}}  |
-| 11 | Looking at pictures, thinking about photography |  {{< br >}}{{< br >}} "Photo-manipulation." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_manipulation)) (Used with permission.) {{< br >}}{{< br >}}  |
-| 12 | War and suffering in the picture | Movie: "[War Photographer.](http://www.imdb.com/title/tt0309061/)" Directed by Christian Frei. 2001. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+VIEWING
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"A Day in the New York Times." Selections from _The New York Times_, December 30, 2007. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_nyt))
+
+"Very Brief History of Photographic Technology." ([PDF - 9.3MB]({{< baseurl >}}/resources/mit21a_348s08_evolution))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The power and ambiguity of photography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Schools and Phases in Photographic Art." ([PDF - 9.3MB]({{< baseurl >}}/resources/mit21a_348s08_schools))
+
+Selections from _The Photographer's Eye_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.2MB]({{< baseurl >}}/resources/mit21a_348s08_szarkowski))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Looking at faces
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"The Afghan Girl." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_afghan))
+
+"19th Century Portraits and Society." Selections from _Beautiful and Damned_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4MB]({{< baseurl >}}/resources/mit21a_348s08_portraits19))
+
+"20th Century Portrait Photography." Selections from _Theatre of the Face_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraits20))
+
+"Physiognomy." Selections from _New Physiognomy_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21a_348s08_physiognomy))
+
+"Faces and Expressions: the Criminal and Insane." Selections from _Beautiful and the Damned_ and _Beauty of Another Order_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 9.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 2.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_2))
+
+"August Sander, German Portraits." Selections from _Men Without Masks_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraitsg))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Snaps/albums/postcards/  
+itinerants, everyday photography and people's lives
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"American Snapshots." Selections from _Art of the American Snapshot_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_snapshotsa))
+
+"American Postcards." Selections from _Real Photo Postcard Guide_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_postcards))
+
+"French Family Snapshots as Art." Selections from _The Boyhood Photographs of J. H. Lartigue_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsf))
+
+"Royal Snaps." Selections from _Queen Alexandra's Christmas Gift Book_ and p. 548 in Lenman, _Oxford Companion_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.8MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsr))
+
+"A Professor's Family Pictures." Selections from Prof. Howe's personal collection. (Images unavailable.)
+
+"A Lebanese Portrait Studio." Selections from _Hashem El Madani_ and _Mapping Sitting_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraitsl))
+
+"Guatemalan Itinerant Photographers." Selections from _Los Ambulantes_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_ambulantes))
+
+"Memento Mori: Recording the Dead." Selections from _Forget Me Not_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_memento))
+
+"Jewish Memorial Books." Selections from _From a Ruined Garden_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_memorials))
+
+Movie: "Photo Wallahs." David and Judith McDougall, 1992.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Truth and deception
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Spirit Photography." pp. 20-23, 29-34, 73-78, and 92-94 in _The Perfect Medium_ and p. 308 in _Houdini_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_spirits))
+
+"Disappearing Commissars." Selections from _The Commissar Vanishes_.
+
+Movie: "Telegrams from the Dead." Directed by Rocky Collins. _The American Experience_. PBS, 1994.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Advertising photography and gender
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Gender in Advertising." Selections from _Gender Advertisements_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_gender))
+
+"Fashion Photography." Selections from _Elle_, February 2007. (Images unavailable.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Photographing the Great Depression
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Documenting the Depression." Selections from _Documenting America_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 9.8MB]({{< baseurl >}}/resources/mit21a_348s08_depression_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 9.5MB]({{< baseurl >}}/resources/mit21a_348s08_depression_2))
+
+Selections from _Roll Jordan Roll_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_jordan))
+
+Selections from _You Have Seen Their Faces_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_faces))
+
+Selections from _An American Exodus_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.7MB]({{< baseurl >}}/resources/mit21a_348s08_exodus))
+
+Selections from _Let Us Now Praise Famous Men_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.4MB]({{< baseurl >}}/resources/mit21a_348s08_praise))
+
+Selections from _Land of the Free_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit21a_348s08_landfree))
+
+Selections from _Fruit Tramps_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_fruit))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Imperialism and photography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Pictures from the National Geographic." Selections from issues from the 1930s, 1950s, and the modern day. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_natgeo))
+
+Selections from _Martín Chambi_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_chambi))
+
+Selections from _The Vanishing Race_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_curtis))
+
+Selections from _Last of the Nuba_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_nuba))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Muck-raking, advocacy, and propaganda
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Muckraking." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit21a_348s08_muckraking))
+
+"Slaves and Prisons." Selections from "[Africa's Children: Struggles of Youth.](http://www.nytimes.com/packages/khtml/2006/10/28/world/20061029_GHANA_FEATURE.html)" _New York Times_, October 29, 2006.
+
+Selections from _Death in the Making_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_death))
+
+"Environmental Propaganda." Selections from _This is the American Earth_ and _The Hand of Man on America_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_environment))
+
+Selections from _House of Bondage_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_bondage))
+
+"Minamata." Selections from _Minamata_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_minamata))
+
+Selections from _Living with the Enemy_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_enemy))
+
+"Genocide in Paraguay?" Selections from _The Indian Peoples of Paraguay_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_genocide))
+
+"Sebastião Salgado." Selections from _An Uncertain Grace_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_salgado))
+
+"Death Camp Guards Have Fun." Selections from Wilkinson, Alec. "[Picturing Auschwitz](http://www.newyorker.com/magazine/2008/03/17/picturing-auschwitz)." _New Yorker_, March 17, 2008. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_guards))
+
+Movie: "The Other Half Revisited." Pacific Street Films, 1998.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Photographing people's lives: photo-essays and photo-ethnography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Trobriand Islanders." Selections from _Malinowski's Kiriwina_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_trobriand))
+
+Selections from _Balinese Character_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_balinese))
+
+"The Grand Valley Dani." Selections from _Gardens of War_ and _New Guinea Photographs, 1961_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_dani))
+
+Selections from _The Edge of the Forest_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_forest))
+
+"Mourning in Greece." Selections from _The Death Rituals of Rural Greece_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_greece))
+
+"Weaving in Chiapas." Selections from _Weaving Generations Together_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_chiapas))
+
+"Indigenous Photography: Corn." Selections from _Ixim; Maíz; Corn_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_corn))
+
+Selections from _My Little Sister Cristina_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_cristina))
+
+"Preparing a Photo-ethnography." Selections from Prof. Howe's collection. (Images unavailable.)
+
+Selections from "Pamplona Bullfight." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_pamplona))
+
+Selections from "[A Country Doctor.](http://books.google.com/books?id=_kgEAAAAMBAJ&lpg=PA115&pg=PA115#v=onepage&q=&f=false)" ([PDF]({{< baseurl >}}/resources/mit21a_348s08_doctor))
+
+Selections from "[Spanish Village.](http://books.google.com/books?id=4E4EAAAAMBAJ&lpg=PA121&pg=PA121#v=onepage&q=&f=false)" ([PDF]({{< baseurl >}}/resources/mit21a_348s08_village))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Looking at pictures, thinking about photography
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Photo-manipulation." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_manipulation)) (Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+War and suffering in the picture
+{{< tdclose >}}
+{{< tdopen >}}
+Movie: "[War Photographer.](http://www.imdb.com/title/tt0309061/)" Directed by Christian Frei. 2001.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Photo_Sources" >}}{{< /anchor >}}Photo Sources
 ----------------------------------------------------------

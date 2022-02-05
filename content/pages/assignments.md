@@ -47,17 +47,165 @@ Discussion and analysis of one set of photographs (a photo-essay, a book, one ph
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | The power and ambiguity of photography | &nbsp; |
-| 3 | Looking at faces | &nbsp; |
-| 4 | Snaps/albums/postcards/itinerants, everyday photography and people's lives | First mini essay/report due |
-| 5 | Truth and deception | &nbsp; |
-| 6 | Advertising photography and gender | &nbsp; |
-| 7 | Photographing the Great Depression | Second mini essay/report due |
-| 8 | Imperialism and photography | Brief study on vernacular photography |
-| 9 | Muck-raking, advocacy, and propaganda | Third mini essay/report due |
-| 10 | Photographing people's lives: photo-essays and photo-ethnography | Essay on photographic practice and impact due |
-| 11 | Looking at pictures, thinking about photography | Critical discussion of claims/theories/interpretations |
-| 12 | War and suffering in the picture | Interpretation of pictures
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The power and ambiguity of photography
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Looking at faces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Snaps/albums/postcards/itinerants, everyday photography and people's lives
+{{< tdclose >}}
+{{< tdopen >}}
+First mini essay/report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Truth and deception
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Advertising photography and gender
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Photographing the Great Depression
+{{< tdclose >}}
+{{< tdopen >}}
+Second mini essay/report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Imperialism and photography
+{{< tdclose >}}
+{{< tdopen >}}
+Brief study on vernacular photography
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Muck-raking, advocacy, and propaganda
+{{< tdclose >}}
+{{< tdopen >}}
+Third mini essay/report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Photographing people's lives: photo-essays and photo-ethnography
+{{< tdclose >}}
+{{< tdopen >}}
+Essay on photographic practice and impact due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Looking at pictures, thinking about photography
+{{< tdclose >}}
+{{< tdopen >}}
+Critical discussion of claims/theories/interpretations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+War and suffering in the picture
+{{< tdclose >}}
+{{< tdopen >}}
+Interpretation of pictures
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
