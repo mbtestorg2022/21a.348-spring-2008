@@ -95,7 +95,7 @@ Frizot, _New History_, chapter 41, "Rituals and Customs."
 
 Jacobbi, Marianne. "[Deleting Him](http://www.boston.com/bostonglobe/magazine/articles/2008/01/13/deleting_him/)." _The Boston Globe_, January 13, 2008, p. 38.
 
-Amir, "From Memorial Books to Invaluable Historical Documentation." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
+Amir, "From Memorial Books to Invaluable Historical Documentation." ([PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
 
 [Meir Holtzman Album](http://www.zchor.org/index5.htm)
 
@@ -281,7 +281,7 @@ Sontag, _Regarding the Pain of Others_, all.
 {{< anchor "Text_Sources" >}}{{< /anchor >}}Text Sources
 --------------------------------------------------------
 
-Amir, Michlean J. "From Memorial Books to Invaluable Historical Documentation." In Wolfson, Laurel, and Barbara Leff. _Proceedings of the 36th Annual Convention of the Association of Jewish Libraries._ La Jolla, CA: AJL, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
+Amir, Michlean J. "From Memorial Books to Invaluable Historical Documentation." In Wolfson, Laurel, and Barbara Leff. _Proceedings of the 36th Annual Convention of the Association of Jewish Libraries._ La Jolla, CA: AJL, 2001. ([PDF](https://www.researchgate.net/publication/265353318_From_memorials_to_invaluable_historical_documentation_Using_yizkor_books_as_resource_for_studying_a_vanished_world))
 
 Banks, Marcus. _Visual Methods in Social Research_. Thousand Oaks, CA: Sage, 2001. ISBN: 9780761963646.
 

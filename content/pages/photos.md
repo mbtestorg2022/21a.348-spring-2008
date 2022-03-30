@@ -52,7 +52,7 @@ The power and ambiguity of photography
 
 "Schools and Phases in Photographic Art." ([PDF - 9.3MB]({{< baseurl >}}/resources/mit21a_348s08_schools))
 
-Selections from _The Photographer's Eye_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.2MB]({{< baseurl >}}/resources/mit21a_348s08_szarkowski))
+Selections from _The Photographer's Eye_. ([PDF - 9.2MB]({{< baseurl >}}/resources/mit21a_348s08_szarkowski))
 
 
 {{< tdclose >}}
@@ -70,13 +70,13 @@ Looking at faces
 
 "The Afghan Girl." ([PDF]({{< baseurl >}}/resources/mit21a_348s08_afghan))
 
-"19th Century Portraits and Society." Selections from _Beautiful and Damned_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.4MB]({{< baseurl >}}/resources/mit21a_348s08_portraits19))
+"19th Century Portraits and Society." Selections from _Beautiful and Damned_. ([PDF - 3.4MB]({{< baseurl >}}/resources/mit21a_348s08_portraits19))
 
 "20th Century Portrait Photography." Selections from _Theatre of the Face_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraits20))
 
-"Physiognomy." Selections from _New Physiognomy_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21a_348s08_physiognomy))
+"Physiognomy." Selections from _New Physiognomy_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_physiognomy))
 
-"Faces and Expressions: the Criminal and Insane." Selections from _Beautiful and the Damned_ and _Beauty of Another Order_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 9.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 2.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_2))
+"Faces and Expressions: the Criminal and Insane." Selections from _Beautiful and the Damned_ and _Beauty of Another Order_. ([PDF 1 of 2 - 9.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_1)) ([PDF 2 of 2 - 2.6MB]({{< baseurl >}}/resources/mit21a_348s08_expression_2))
 
 "August Sander, German Portraits." Selections from _Men Without Masks_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_portraitsg))
 
@@ -97,11 +97,11 @@ itinerants, everyday photography and people's lives
 
 "American Snapshots." Selections from _Art of the American Snapshot_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_snapshotsa))
 
-"American Postcards." Selections from _Real Photo Postcard Guide_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_postcards))
+"American Postcards." Selections from _Real Photo Postcard Guide_. ([PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_postcards))
 
-"French Family Snapshots as Art." Selections from _The Boyhood Photographs of J. H. Lartigue_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.4MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsf))
+"French Family Snapshots as Art." Selections from _The Boyhood Photographs of J. H. Lartigue_. ([PDF - 4.4MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsf))
 
-"Royal Snaps." Selections from _Queen Alexandra's Christmas Gift Book_ and p. 548 in Lenman, _Oxford Companion_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.8MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsr))
+"Royal Snaps." Selections from _Queen Alexandra's Christmas Gift Book_ and p. 548 in Lenman, _Oxford Companion_. ([PDF - 5.8MB]({{< baseurl >}}/resources/mit21a_348s08_snapshotsr))
 
 "A Professor's Family Pictures." Selections from Prof. Howe's personal collection. (Images unavailable.)
 
@@ -109,7 +109,7 @@ itinerants, everyday photography and people's lives
 
 "Guatemalan Itinerant Photographers." Selections from _Los Ambulantes_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_ambulantes))
 
-"Memento Mori: Recording the Dead." Selections from _Forget Me Not_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_memento))
+"Memento Mori: Recording the Dead." Selections from _Forget Me Not_. ([PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_memento))
 
 "Jewish Memorial Books." Selections from _From a Ruined Garden_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_memorials))
 
@@ -129,7 +129,7 @@ Truth and deception
 {{< tdopen >}}
 
 
-"Spirit Photography." pp. 20-23, 29-34, 73-78, and 92-94 in _The Perfect Medium_ and p. 308 in _Houdini_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_spirits))
+"Spirit Photography." pp. 20-23, 29-34, 73-78, and 92-94 in _The Perfect Medium_ and p. 308 in _Houdini_. ([PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_spirits))
 
 "Disappearing Commissars." Selections from _The Commissar Vanishes_.
 
@@ -167,17 +167,17 @@ Photographing the Great Depression
 {{< tdopen >}}
 
 
-"Documenting the Depression." Selections from _Documenting America_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 9.8MB]({{< baseurl >}}/resources/mit21a_348s08_depression_1)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 9.5MB]({{< baseurl >}}/resources/mit21a_348s08_depression_2))
+"Documenting the Depression." Selections from _Documenting America_. ([PDF 1 of 2 - 9.8MB]({{< baseurl >}}/resources/mit21a_348s08_depression_1)) ([PDF 2 of 2 - 9.5MB]({{< baseurl >}}/resources/mit21a_348s08_depression_2))
 
 Selections from _Roll Jordan Roll_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_jordan))
 
 Selections from _You Have Seen Their Faces_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_faces))
 
-Selections from _An American Exodus_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.7MB]({{< baseurl >}}/resources/mit21a_348s08_exodus))
+Selections from _An American Exodus_. ([PDF - 7.7MB]({{< baseurl >}}/resources/mit21a_348s08_exodus))
 
-Selections from _Let Us Now Praise Famous Men_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 8.4MB]({{< baseurl >}}/resources/mit21a_348s08_praise))
+Selections from _Let Us Now Praise Famous Men_. ([PDF - 8.4MB]({{< baseurl >}}/resources/mit21a_348s08_praise))
 
-Selections from _Land of the Free_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.4MB]({{< baseurl >}}/resources/mit21a_348s08_landfree))
+Selections from _Land of the Free_. ([PDF - 2.4MB]({{< baseurl >}}/resources/mit21a_348s08_landfree))
 
 Selections from _Fruit Tramps_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_fruit))
 
@@ -199,7 +199,7 @@ Imperialism and photography
 
 Selections from _Martín Chambi_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_chambi))
 
-Selections from _The Vanishing Race_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_curtis))
+Selections from _The Vanishing Race_. ([PDF - 9.9MB]({{< baseurl >}}/resources/mit21a_348s08_curtis))
 
 Selections from _Last of the Nuba_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_nuba))
 
@@ -217,7 +217,7 @@ Muck-raking, advocacy, and propaganda
 {{< tdopen >}}
 
 
-"Muckraking." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit21a_348s08_muckraking))
+"Muckraking." ([PDF - 1.1MB]({{< baseurl >}}/resources/mit21a_348s08_muckraking))
 
 "Slaves and Prisons." Selections from "[Africa's Children: Struggles of Youth.](http://www.nytimes.com/packages/khtml/2006/10/28/world/20061029_GHANA_FEATURE.html)" _New York Times_, October 29, 2006.
 
@@ -253,7 +253,7 @@ Photographing people's lives: photo-essays and photo-ethnography
 {{< tdopen >}}
 
 
-"Trobriand Islanders." Selections from _Malinowski's Kiriwina_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_trobriand))
+"Trobriand Islanders." Selections from _Malinowski's Kiriwina_. ([PDF - 1.9MB]({{< baseurl >}}/resources/mit21a_348s08_trobriand))
 
 Selections from _Balinese Character_. ([PDF]({{< baseurl >}}/resources/mit21a_348s08_balinese))
 
