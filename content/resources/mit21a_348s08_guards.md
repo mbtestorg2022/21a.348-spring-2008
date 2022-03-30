@@ -4,6 +4,7 @@ description: "Photo and movie assignments for a class session on photographs by 
   \ H\xF6cker."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-348-photography-and-truth-spring-2008/34cffd91ce9ff3c01e83ef910519c416_MIT21A_348S08_guards.pdf
 file_type: application/pdf
+parent_uid: 19111682-54bc-253f-8e45-4331c89aad90
 resourcetype: Document
 title: '"Death Camp Guards Have Fun." Selections from Wilkinson, Alec. "Picturing
   Auschwitz." New Yorker, March 17, 2008.'
